@@ -1,9 +1,10 @@
 ﻿body {
     font-family: Cambria;
-    padding: 1%;
+    padding: 0.5%;
     background-color: black;
     color: white;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -12,11 +13,12 @@ p {
     padding: 0;
 }
 
-#cwars_div {
+.container {
     border-radius: 25px;
     background-color: dimgrey;
     width: 70%;
     padding: 1%;
+    margin: 1%;
     text-align: center;
 }
 
@@ -29,14 +31,14 @@ p {
     color: black;
 }
 
-.link:hover {
-    color: blue;
-    text-decoration: none;
-}
+    .link:hover {
+        color: blue;
+        text-decoration: none;
+    }
 
-.link:active {
-    color: black;
-}
+    .link:active {
+        color: black;
+    }
 
 #title {
     padding: 0;
@@ -52,6 +54,6 @@ p {
     opacity: 0.5;
 }
 
-#cwpic:hover {
-    opacity: 1.0;
-}
+    #cwpic:hover {
+        opacity: 1.0;
+    }
