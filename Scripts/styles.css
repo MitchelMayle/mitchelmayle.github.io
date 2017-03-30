@@ -45,4 +45,9 @@ p {
     width: 40%;
     border: 1px solid white;
     margin: 1%;
+    opacity: 0.5;
+}
+
+#cwpic:hover {
+    opacity: 1.0;
 }
