@@ -1,4 +1,6 @@
 ﻿body {
+    font-family: Cambria;
+    padding: 1%;
     background-color: black;
     color: white;
     display: flex;
@@ -42,4 +44,5 @@ p {
 #cwpic {
     width: 40%;
     border: 1px solid white;
+    margin: 1%;
 }
