@@ -20,8 +20,12 @@ p {
     text-align: center;
 }
 
+.link_div {
+    text-align: center;
+}
+
 .link {
-    display: block;
+    display: inline;
     color: black;
 }
 
