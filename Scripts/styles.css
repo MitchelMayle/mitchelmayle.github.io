@@ -1,8 +1,11 @@
-﻿@font-face {
-    font-family: Cambria;
+﻿/* WHOLE PAGE */
+@font-face {
+    font-family: 'Futura';
+    src: url('../Content/Futura.ttf') format('truetype');
 }
 
 body {
+    font-family: Futura !important;
     background: black !important;
 }
 
@@ -15,11 +18,7 @@ body {
     justify-content: center;
 }
 
-p {
-    margin: 0;
-    padding: 0;
-}
-
+/* NAVBAR */
 #navbar, .navbar-header, .container-fluid, navbar navbar-default {
     background-color: dimgrey;
 }
@@ -30,11 +29,12 @@ p {
 }
 
 #navbar a {
-    color: black;
+    color: white;
     font-weight: bold;
-    font-size:large;
+    font-size: x-large;
 }
 
+/* PROJECT DIVS*/
 .container {
     border-radius: 25px;
     background-color: dimgrey;
@@ -42,6 +42,12 @@ p {
     padding: 1%;
     margin: 1%;
     text-align: center;
+}
+
+p {
+    font-size: x-large;
+    margin: 0;
+    padding: 0;
 }
 
 .link_div {
