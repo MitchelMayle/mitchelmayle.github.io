@@ -1,26 +1,26 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "mitchelmayle.github.io", ".", "{82174A4D-3132-4AB5-8634-8814866881B8}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "mitchelmayle.github.io", ".", "{0CF0D871-7F23-4052-91A4-F09D86E3A601}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_50626"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\mitchelmayle.github.io\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50626\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49408"
+		Debug.AspNetCompiler.PhysicalPath = "Z:\Tech Elevator\mitchelmayle.github.io\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49408\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_50626"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\mitchelmayle.github.io\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50626\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49408"
+		Release.AspNetCompiler.PhysicalPath = "Z:\Tech Elevator\mitchelmayle.github.io\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49408\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "50626"
+		VWDPort = "49408"
 	EndProjectSection
 EndProject
 Global
@@ -28,8 +28,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82174A4D-3132-4AB5-8634-8814866881B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82174A4D-3132-4AB5-8634-8814866881B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF0D871-7F23-4052-91A4-F09D86E3A601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF0D871-7F23-4052-91A4-F09D86E3A601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
