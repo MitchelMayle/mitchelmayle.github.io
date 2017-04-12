@@ -1,5 +1,12 @@
-﻿body {
+﻿@font-face {
     font-family: Cambria;
+}
+
+body {
+    background: black !important;
+}
+
+#wholePage {
     padding: 0.5%;
     background-color: black;
     color: white;
@@ -11,6 +18,21 @@
 p {
     margin: 0;
     padding: 0;
+}
+
+#navbar, .navbar-header, .container-fluid, navbar navbar-default {
+    background-color: dimgrey;
+}
+
+.navbar-default {
+    background-color: black !important;
+    border-color: black !important;
+}
+
+#navbar a {
+    color: black;
+    font-weight: bold;
+    font-size:large;
 }
 
 .container {
