@@ -4,6 +4,11 @@
     src: url('../Content/Futura.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Futura Koyu';
+    src: url('../Content/Futura Koyu.ttf') format('truetype');
+}
+
 body {
     font-family: Futura !important;
     background: black !important;
@@ -52,11 +57,17 @@ p {
 
 .link_div {
     text-align: center;
+    margin: 1.5%;
 }
 
 .link {
     display: inline;
     color: black;
+    font-size: large;
+    border: 1px solid black;
+    border-spacing: 10px;
+    border-radius: 10px;
+    padding: 0.4%
 }
 
     .link:hover {
@@ -69,6 +80,7 @@ p {
     }
 
 #title {
+    font-family: 'Futura Koyu';
     padding: 0;
     margin: 0;
     text-decoration: underline;
