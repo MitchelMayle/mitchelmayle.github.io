@@ -25,7 +25,7 @@ body {
 
 /* NAVBAR */
 #navbar, .navbar-header, .container-fluid, navbar navbar-default {
-    background-color: dimgrey;
+    background-color: #062F4F;
 }
 
 .navbar-default {
@@ -42,7 +42,7 @@ body {
 /* PROJECT DIVS*/
 .container {
     border-radius: 25px;
-    background-color: dimgrey;
+    background-color: #062F4F;
     width: 70%;
     padding: 1%;
     margin: 1%;
@@ -62,9 +62,9 @@ p {
 
 .link {
     display: inline;
-    color: black;
+    color: white;
     font-size: large;
-    border: 1px solid black;
+    border: 1px solid white;
     border-spacing: 10px;
     border-radius: 10px;
     padding: 0.4%
